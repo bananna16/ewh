@@ -1,4 +1,4 @@
-Website backend for ewh.ucsd.edu
+Website files for ewh.ucsd.edu
 
 Uses bootstrap.
 
